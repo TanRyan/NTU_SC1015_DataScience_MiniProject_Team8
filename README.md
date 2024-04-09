@@ -4,16 +4,14 @@
 # Introduction
 ---
 
-The Titanic was a British luxury passenger liner that embarked on its maiden voyage from Southampton, England, to New York City on April 10, 1912³. It was the largest and most luxurious ship afloat at the time¹². 
+The RMS Titanic was a British luxury passenger as well as mail carrying ocean liner. Before the disaster, the RMS Titanic was deemed "unsinkable" However, on 15 April 1912, during its voyage from Southhampton, England to New York City, United States, it crashed into an iceberg at the North Atlantic Ocean and as a result sank. Tragically, about 1,500 of the estimated 2,224 passengers and crew aboard perished as the ship was not equipped with enough lifeboats for everyone, triggering the deadliest sinking of a single ship during that period. 
 
-However, just four days into the voyage, shortly before midnight on April 14, the Titanic collided with an iceberg southeast of Cape Race, Newfoundland¹². Despite being considered unsinkable due to its double-bottomed hull divided into 16 watertight compartments¹, the collision caused five compartments to rupture, leading to the ship sinking in the early hours of April 15¹².
+The Titanic dataset from Kaggle consists of some information of 892 passangers. 
 
-Tragically, more than 1,500 of the approximately 2,200 passengers and crew on board lost their lives in the disaster¹². The Titanic had only 1,178 lifeboat places for 2,224 passengers¹. The disaster led to significant changes in maritime regulations, including new rules requiring that the number of places in lifeboats equal the number of passengers and that all ships maintain a 24-hour radio watch for distress signals¹.
+The **attributes** of the dataset are:
+| **Attributes** | **Definition** | **Key** |
+|----------------|----------------|---------|
+| **survival**       | Whether the passenger survived | 0 = No, 1 = Yes |
+| **pclass** | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |
+| **sex** | Gender of the passenger | male, female |
 
-The wreck of the Titanic was discovered in 1985, lying upright in two pieces at a depth of 13,000 feet¹. The Titanic disaster has since entered the public consciousness as a cautionary tale about the perils of human hubris².
-
-Source: Conversation with Bing, 03/04/2024
-(1) Timeline and Facts About the Titanic | Britannica. https://www.britannica.com/story/titanic-timeline-and-facts.
-(2) A brief summary of the Titanic disaster | Britannica. https://www.britannica.com/summary/Titanic.
-(3) The Titanic: Sinking, Notable Passengers & Facts | HISTORY. https://www.history.com/topics/early-20th-century-us/titanic.
-(4) Titan submersible implosion - Wikipedia. https://en.wikipedia.org/wiki/Titan_submersible_implosion.
