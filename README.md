@@ -4,10 +4,8 @@
 #About
 ---
 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the Titanic Dataset from Kaggle. 
 #Contributors
----
-
-
 
 # Introduction
 ---
@@ -30,7 +28,7 @@ The Titanic dataset from Kaggle consists of some information of 892 passangers.
 | **cabin** | Cabin number | |
 | **embarked** | Port of Emabarkation | C = Cherbourg, Q = Queenstown, S = Southhampton | |
 
-**Attribute Notes**
+**Features Notes**
 
 **age:** Age is fractional if less than 1. If the age is estimated, it is in the form of xx.5  <br/><br/>
 
@@ -54,19 +52,45 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Problem Definition
 ---
 
+* Which features is able to predict the survivability of the passengers onbaord the Titanic.   
+* Which machine learning models will be able to give a better accuracy to predict the survivability of the passengers onboard the Titanic. 
+
 ## Models Used
 ---
+
+1. Random Forest Classifier   
+2. Decision Tree Classifier 
 
 ## Conclusion
 ---
 
+* Most impactful features : Sex_female, Sex_male and Pclass 
+* 
+
 ## What did we lean from this project?
 ---
 
-1.
+1. Random Forest Classifier from sklearn 
+2. Concepts about Precision, Recall and F1 Score 
+3. Handling imbalanced datasets using upsampling methods  
+4. How to use the LIME library to explain predictions of machine learning models 
+5. Interpreting what the ROC curve means 
+6. Interpreting the Classification Report of the models 
+7. Collborate using GitHub repository 
+
+## Contributions 
+--- 
+ 
+* @TanRyan - Explorotary Data Analysis 
+* @Kaien21 - Data Upsampling, Decision Tree Classification 
+* @georginacyc - Random Forest Classifier,  
 
 
 ## References:
 ---
 
-Cukierski, W. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic
+* Cukierski, W. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic 
+* Cottle, P. (2012). learnGitBranching. GitHub. https://learngitbranching.js.org/ 
+* Titanic. (2024). Wikipeida. https://en.wikipedia.org/wiki/Titanic 
+* Tikkanen, A. (2024) Titanic. Encyclopedia Britannica. https://www.britannica.com/topic/Titanic 
+* Thaker, T. (2021). What is upsampling and downsampling with examples?. Kaggle. https://www.kaggle.com/discussions/general/262007
