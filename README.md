@@ -66,7 +66,7 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Conclusion
 ---
 
-* Key features found: Sex_female & Sex_male, Pclass.
+* Key features found: Sex_female, Sex_male, Pclass.
 * Gender likely affects survivability due to evacuation policies prioritizing women and children.
 * Ticket class played a significant role, possibly due to proximity to evacuation points.
 * Both Decision Tree and Random Forest models performed similarly, with Decision Tree slightly better.
@@ -75,7 +75,7 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 * Upsampling and feature removal did not significantly change model performance.
 * Consideration of model configurations and hyperparameters may also impact performance. 
 
-## What did we lean from this project?
+## What did we learn from this project?
 ---
 
 1. Random Forest Classifier from sklearn 
@@ -89,9 +89,9 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Contributions 
 --- 
  
-* [@TanRyan](https://github.com/TanRyan) - Explorotary Data Analysis
+* [@TanRyan](https://github.com/TanRyan) - Exploratory Data Analysis
 * [@Kaien21](https://github.com/Kaien21) - Data Upsampling, Decision Tree Classification
-* [@georginacyc](https://github.com/georginacyc) - Random Forest Classifier,  
+* [@georginacyc](https://github.com/georginacyc) - Random Forest Classifier, Feature Refining, Results Analysis
 
 
 ## References:
