@@ -1,6 +1,14 @@
 # NTU SC1015 Data Science Mini Project Group 8
 ---
 
+#About
+---
+
+#Contributors
+---
+
+
+
 # Introduction
 ---
 
@@ -42,5 +50,23 @@ Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore `parch = 0` for them.
 
 ---
+
+## Problem Definition
+---
+
+## Models Used
+---
+
+## Conclusion
+---
+
+## What did we lean from this project?
+---
+
+1.
+
+
 ## References:
+---
+
 Cukierski, W. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic
