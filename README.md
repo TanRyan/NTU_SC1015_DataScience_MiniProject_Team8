@@ -58,13 +58,27 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Models Used
 ---
 
+1. Random Forest Classifier   
+2. Decision Tree Classifier 
+
 ## Conclusion
 ---
+
+* Most impactful features : Sex_female, Sex_male and Pclass 
+* 
 
 ## What did we lean from this project?
 ---
 
-1.
+1. Random Forest Classifier from sklearn 
+2. Concepts about Precision, Recall and F1 Score 
+3. Handling imbalanced datasets using upsampling methods  
+4. How to use the LIME library to explain predictions of machine learning models 
+5. Interpreting what the ROC curve means 
+6. Interpreting the Classification Report of the models 
+7. Collborate using GitHub repository 
+
+
 
 
 ## References:
