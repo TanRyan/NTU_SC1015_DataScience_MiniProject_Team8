@@ -1,20 +1,22 @@
 # NTU SC1015 Data Science Mini Project Group 8
 ---
 
-#About
+## About
 ---
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the Titanic Dataset from Kaggle. 
-#Contributors
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the [Titanic Dataset](https://kaggle.com/competitions/titanic) from Kaggle.
 
-# Introduction
+## Introduction
 ---
 
 The RMS Titanic was a British luxury passenger as well as mail carrying ocean liner. Before the disaster, the RMS Titanic was deemed "unsinkable" However, on 15 April 1912, during its voyage from Southhampton, England to New York City, United States, it crashed into an iceberg at the North Atlantic Ocean and as a result sank. Tragically, about 1,500 of the estimated 2,224 passengers and crew aboard perished as the ship was not equipped with enough lifeboats for everyone, triggering the deadliest sinking of a single ship during that period. 
 
 The Titanic dataset from Kaggle consists of some information of 892 passangers. 
 
+![alt text](https://www.worldhistory.org/img/r/p/1500x1500/14047.png.webp?v=1706789164 "RMS Titanic")
+
 ## Dataset Attributes
+---
 
 | **Attributes** | **Definition** | **Key** |
 |----------------|----------------|---------|
@@ -87,9 +89,9 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Contributions 
 --- 
  
-* @TanRyan - Explorotary Data Analysis 
-* @Kaien21 - Data Upsampling, Decision Tree Classification 
-* @georginacyc - Random Forest Classifier,  
+* [@TanRyan](https://github.com/TanRyan) - Explorotary Data Analysis
+* [@Kaien21](https://github.com/Kaien21) - Data Upsampling, Decision Tree Classification
+* [@georginacyc](https://github.com/georginacyc) - Random Forest Classifier,  
 
 
 ## References:
