@@ -78,10 +78,19 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 6. Interpreting the Classification Report of the models 
 7. Collborate using GitHub repository 
 
-
+## Contributions 
+--- 
+ 
+* @TanRyan - Explorotary Data Analysis 
+* @Kaien21 - Data Upsampling, Decision Tree Classification 
+* @georginacyc - Random Forest Classifier,  
 
 
 ## References:
 ---
 
-Cukierski, W. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic
+* Cukierski, W. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic 
+* Cottle, P. (2012). learnGitBranching. GitHub. https://learngitbranching.js.org/ 
+* Titanic. (2024). Wikipeida. https://en.wikipedia.org/wiki/Titanic 
+* Tikkanen, A. (2024) Titanic. Encyclopedia Britannica. https://www.britannica.com/topic/Titanic 
+* Thaker, T. (2021). What is upsampling and downsampling with examples?. Kaggle. https://www.kaggle.com/discussions/general/262007
