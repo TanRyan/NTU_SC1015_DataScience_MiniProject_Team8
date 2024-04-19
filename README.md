@@ -4,10 +4,8 @@
 #About
 ---
 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the Titanic Dataset from Kaggle. 
 #Contributors
----
-
-
 
 # Introduction
 ---
@@ -30,7 +28,7 @@ The Titanic dataset from Kaggle consists of some information of 892 passangers.
 | **cabin** | Cabin number | |
 | **embarked** | Port of Emabarkation | C = Cherbourg, Q = Queenstown, S = Southhampton | |
 
-**Attribute Notes**
+**Features Notes**
 
 **age:** Age is fractional if less than 1. If the age is estimated, it is in the form of xx.5  <br/><br/>
 
@@ -53,6 +51,9 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 
 ## Problem Definition
 ---
+
+* Which features is able to predict the survivability of the passengers onbaord the Titanic.   
+* Which machine learning models will be able to give a better accuracy to predict the survivability of the passengers onboard the Titanic. 
 
 ## Models Used
 ---
