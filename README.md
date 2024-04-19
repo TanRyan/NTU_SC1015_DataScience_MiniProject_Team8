@@ -64,8 +64,14 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Conclusion
 ---
 
-* Most impactful features : Sex_female, Sex_male and Pclass 
-* 
+* Key features found: Sex_female & Sex_male, Pclass.
+* Gender likely affects survivability due to evacuation policies prioritizing women and children.
+* Ticket class played a significant role, possibly due to proximity to evacuation points.
+* Both Decision Tree and Random Forest models performed similarly, with Decision Tree slightly better.
+* No overfitting detected in either model.
+* Performance could potentially be improved with dataset refinements.
+* Upsampling and feature removal did not significantly change model performance.
+* Consideration of model configurations and hyperparameters may also impact performance. 
 
 ## What did we lean from this project?
 ---
