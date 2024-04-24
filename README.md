@@ -15,20 +15,22 @@ The Titanic dataset from Kaggle consists of some information of 892 passangers.
 
 ![alt text](https://www.worldhistory.org/img/r/p/1500x1500/14047.png.webp?v=1706789164 "RMS Titanic")
 
-## Dataset Attributes
+## Dataset Features
 ---
 
-| **Attributes** | **Definition** | **Key** |
-|----------------|----------------|---------|
-| **survival**       | Whether the passenger survived | 0 = No, 1 = Yes |
-| **pclass** | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |
-| **sex** | Gender of the passenger | male, female |
-| **Age** | Age in years | |
-| **sibsp** | number of siblings/spouses aboard the Titanic | |
-| **parch** | number of parents/children aboard the Titanic | |
-| **ticket** | Ticket number | |
-| **cabin** | Cabin number | |
-| **embarked** | Port of Emabarkation | C = Cherbourg, Q = Queenstown, S = Southhampton | |
+| **Feature** | **Definition** | **Key** |  
+|----------------|----------------|---------|  
+| **passengerId** | ID given to each passenger | - |
+| **name** | Name of passengers | - |
+| **pclass** | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |  
+| **sex** | Gender of the passenger | male, female |  
+| **Age** | Age in years | - |  
+| **sibsp** | number of siblings/spouses aboard the Titanic | - |  
+| **parch** | number of parents/children aboard the Titanic | - |  
+| **ticket** | Ticket number | - |  
+| **cabin** | Cabin number | - |  
+| **embarked** | Port of Emabarkation | C = Cherbourg, Q = Queenstown, S = Southhampton |  
+| **fare** | Passenger fare | - |
 
 **Features Notes**
 
