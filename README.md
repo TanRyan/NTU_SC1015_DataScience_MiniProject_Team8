@@ -56,6 +56,7 @@ Some children travelled only with a nanny, therefore `parch = 0` for them.
 ## Problem Definition
 ---
 
+During a maritime crisis, what type of a passenger would most likely survive a maritime accident?  
 * Which features is able to predict the survivability of the passengers onbaord the Titanic.   
 * Which machine learning models will be able to give a better accuracy to predict the survivability of the passengers onboard the Titanic. 
 
